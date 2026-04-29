@@ -1,5 +1,4 @@
 # Ai-rent-prediction-Project
-This project is a supervised ML regression project that predicts apartment rent using UCI rental listing data. It compares Linear Regression, Random Forest, and Gradient Boosting, includes data cleaning, visualizations, feature importance, and an interactive Colab widget for rent estimates.
 
 
 supervised machine learning regression project that predicts monthly apartment rent using the UCI Apartment for Rent Classified dataset. The project uses apartment listing features such as bedrooms, bathrooms, square footage, location, amenities, and other rental details to estimate rent prices.
